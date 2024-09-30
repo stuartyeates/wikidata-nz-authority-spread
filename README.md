@@ -8,4 +8,7 @@ There are literally billions of itmes and tens of thousands of possible properti
 
 # Notes #
 * This is strictly an extract, there is no way to use these spreadsheets to upload changes to wikidata. It may be possble to find use these spreadsheets to find issues that can be fixed via other wikidata editing channels.
-* This extract contains information on living people, but is extracted from a public source. If there is a problem with any of the data, fix it on wikidata.org and ping my to update the spreadsheets and flush the old data. 
+* This extract contains information on living people, but is extracted from a public source. If there is a problem with any of the data, fix it on wikidata.org and ping my to update the spreadsheets and flush the old data.load
+* the data contains unicode characters. The CSV will need to be loaded as UTF-8.
+* If you're aware of any New Zealand-related wikidata identifiers, let me know.
+* 
