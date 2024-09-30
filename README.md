@@ -11,4 +11,5 @@ There are literally billions of itmes and tens of thousands of possible properti
 * This extract contains information on living people, but is extracted from a public source. If there is a problem with any of the data, fix it on wikidata.org and ping my to update the spreadsheets and flush the old data.load
 * the data contains unicode characters. The CSV will need to be loaded as UTF-8.
 * If you're aware of any New Zealand-related wikidata identifiers, let me know.
-* 
+* Many people are missing various of their identifiers, feel free to fix these on wikidata.org
+* I'm still looking for a good definition of New Zealander, let me know if you have any ideas.
